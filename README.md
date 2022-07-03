@@ -10,3 +10,13 @@ View the complete course: \*\*[https://ocw.mit.edu/6-006S20](https://www.youtube
 YouTube Playlist: [https://www.youtube.com/playlist?list...](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 
 This course from MIT is an introduction to mathematical modeling of computational problems, as well as common algorithms, algorithmic paradigms, and data structures used to solve these problems. It emphasizes the relationship between algorithms and programming and introduces basic performance measures and analysis techniques for these problems
+
+## lecture_1
+
+Goals:
+
+- Solve Computational Problems
+- Prove correctness
+- Argue Efficiency
+- Communicating Solution to others
+
